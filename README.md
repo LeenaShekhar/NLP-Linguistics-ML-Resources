@@ -1,7 +1,7 @@
 # NLP-ML-Resources
 
 This repository contains links to resources (papers, ebooks, blog posts, and courses) and other repositories that I have found useful over the years to learn about NLP and ML. 
-It is almost impossible to keep updating the list of papers as there are many out there already and tens on them added daily to ArXiv. Though, I will mention some papers that I have found extremely interesting. This section will be biased!
+It is almost impossible to keep updating the list of papers as there are many out there already and tens on them added daily to [ArXiv](https://arxiv.org/list/cs.CL/recent). Though, I will mention some papers that I have found extremely interesting. This section will be biased!
 
 Note: This is a WIP and will be updated on a regular basis but with an unknown periodicty. 
 
@@ -15,11 +15,18 @@ Note: This is a WIP and will be updated on a regular basis but with an unknown p
 6. Graduate level course to learn about DL framework, TensorFlow: [CS 20: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
 7. Fast.ai MOOC matrials for practical ideas: [Practical Deep Learning For Coders](http://course.fast.ai/)
 
-## PAPERS
+## PAPERS [Published]
 
 
 ## BLOG POSTS
+1. Introduction to LSTMS: [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+2. Vanishing gradients in RNNs and how to stop them: [https://weberna.github.io/blog/2017/11/15/LSTM-Vanishing-Gradients.html](https://weberna.github.io/blog/2017/11/15/LSTM-Vanishing-Gradients.html)
+3. Gradient descent optimization techniques: [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
+4. Introduction to VAEs: [Tutorial - What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) and [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
 
+FUN READS
+1. Information theory and cross entropy: [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
+2. Information bottleneck: [Steps Towards Understanding Deep Learning: The Information Bottleneck Connection](https://weberna.github.io/jekyll/update/2017/11/08/Information-Bottleneck-Part1.html)
 
 ## REPOSITORIES
 
