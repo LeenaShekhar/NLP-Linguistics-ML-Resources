@@ -3,7 +3,7 @@
 This repository contains links to resources (papers, ebooks, blog posts, and courses) and other repositories that I have found useful over the years to learn about NLP and ML. 
 It is almost impossible to keep updating the list of papers as there are many out there already and tens on them added daily to ArXiv. Though, I will mention some papers that I have found extremely interesting. This section will be biased!
 
-Note: This is a WIP and will be updated on a regular basis with an unknown periodicty. 
+Note: This is a WIP and will be updated on a regular basis but with an unknown periodicty. 
 
 ## BOOKS + STRUCTURED COURSES
 
