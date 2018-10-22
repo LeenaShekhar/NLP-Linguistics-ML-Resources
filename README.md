@@ -5,7 +5,7 @@ It is almost impossible to keep updating the list of papers as there are many ou
 
 Note: This is a WIP and will be updated on a regular basis with an unknown periodicty. 
 
-##BOOKS + STRUCTURED COURSES
+## BOOKS + STRUCTURED COURSES
 
 1. Classic NLP Textbook: [Speech and Language Processing by Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)
 2. NLP textbook with ML: [Natural Language Processing by Eisenstein](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
@@ -14,12 +14,12 @@ Note: This is a WIP and will be updated on a regular basis with an unknown perio
 5. Graduate level course to learn about DL framework, TensorFlow: [CS 20: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
 6. Fast.ai MOOC matrials for practical ideas: [Practical Deep Learning For Coders](http://course.fast.ai/)
 
-##PAPERS
+## PAPERS
 
 
-##BLOG POSTS
+## BLOG POSTS
 
 
-##REPOSITORIES
+## REPOSITORIES
 
 
