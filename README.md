@@ -3,7 +3,7 @@
 This repository contains links to resources (papers, ebooks, blog posts, and courses) that I have found useful over the years to learn about NLP and ML. 
 It is almost impossible to keep updating the list of papers as there are many out there already and tens on them added daily to [ArXiv](https://arxiv.org/list/cs.CL/recent). Though, I will mention some papers that I have found extremely interesting. This section will be biased!
 
-Note: This is a WIP and will be updated on a regular basis but with an unknown periodicty. 
+Note: This is a WIP and will be updated on a regular basis but with an _unknown_ periodicty. 
 
 ## BOOKS + STRUCTURED COURSES
 
@@ -32,6 +32,3 @@ Note: This is a WIP and will be updated on a regular basis but with an unknown p
 FUN READS
 1. Information theory and cross entropy: [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
 2. Information bottleneck: [Steps Towards Understanding Deep Learning: The Information Bottleneck Connection](https://weberna.github.io/jekyll/update/2017/11/08/Information-Bottleneck-Part1.html)
-
-
-
