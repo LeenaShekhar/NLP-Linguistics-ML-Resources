@@ -20,6 +20,7 @@ Note: This is a WIP and will be updated on a regular basis but with an unknown p
 
 1. [Scripts, plans, and knowledge. Roger C Schank and Robert P Abelson. 1975.]
 2. [Analogs of Linguistic Structure in Deep Representations](https://arxiv.org/pdf/1707.08139.pdf)
+3. [A Structured Variational Autoencoder for Contextual Morphological Inflection](https://arxiv.org/pdf/1806.03746.pdf)
 
 ## BLOG POSTS
 1. Introduction to LSTMS: [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
