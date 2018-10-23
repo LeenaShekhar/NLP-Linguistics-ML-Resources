@@ -23,10 +23,12 @@ Note: This is a WIP and will be updated on a regular basis but with an unknown p
 2. Vanishing gradients in RNNs and how to stop them: [https://weberna.github.io/blog/2017/11/15/LSTM-Vanishing-Gradients.html](https://weberna.github.io/blog/2017/11/15/LSTM-Vanishing-Gradients.html)
 3. Gradient descent optimization techniques: [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 4. Introduction to VAEs: [Tutorial - What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) and [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
+5. Convex optimization: [Parameter-Free learning and optimization algorithms](https://parameterfree.wordpress.com/)
 
 FUN READS
 1. Information theory and cross entropy: [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
 2. Information bottleneck: [Steps Towards Understanding Deep Learning: The Information Bottleneck Connection](https://weberna.github.io/jekyll/update/2017/11/08/Information-Bottleneck-Part1.html)
+
 
 ## REPOSITORIES
 
