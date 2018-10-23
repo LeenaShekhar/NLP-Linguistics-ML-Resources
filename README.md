@@ -1,6 +1,6 @@
 # NLP-ML-Resources
 
-This repository contains links to resources (papers, ebooks, blog posts, and courses) and other repositories that I have found useful over the years to learn about NLP and ML. 
+This repository contains links to resources (papers, ebooks, blog posts, and courses) that I have found useful over the years to learn about NLP and ML. 
 It is almost impossible to keep updating the list of papers as there are many out there already and tens on them added daily to [ArXiv](https://arxiv.org/list/cs.CL/recent). Though, I will mention some papers that I have found extremely interesting. This section will be biased!
 
 Note: This is a WIP and will be updated on a regular basis but with an unknown periodicty. 
@@ -16,8 +16,10 @@ Note: This is a WIP and will be updated on a regular basis but with an unknown p
 7. Fast.ai MOOC matrials for practical ideas: [Practical Deep Learning For Coders](http://course.fast.ai/)
 8. CNN quick points: [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
 
-## PAPERS [Published]
+## PAPERS [Published and in no particular order]
 
+1. [Scripts, plans, and knowledge. Roger C Schank and Robert P Abelson. 1975.]
+2. [Analogs of Linguistic Structure in Deep Representations](https://arxiv.org/pdf/1707.08139.pdf)
 
 ## BLOG POSTS
 1. Introduction to LSTMS: [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -30,7 +32,5 @@ FUN READS
 1. Information theory and cross entropy: [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
 2. Information bottleneck: [Steps Towards Understanding Deep Learning: The Information Bottleneck Connection](https://weberna.github.io/jekyll/update/2017/11/08/Information-Bottleneck-Part1.html)
 
-
-## REPOSITORIES
 
 
