@@ -14,6 +14,7 @@ Note: This is a WIP and will be updated on a regular basis but with an unknown p
 5. Book on theoretical ML: [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 6. Graduate level course to learn about DL framework, TensorFlow: [CS 20: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
 7. Fast.ai MOOC matrials for practical ideas: [Practical Deep Learning For Coders](http://course.fast.ai/)
+8. CNN quick points: [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
 
 ## PAPERS [Published]
 
