@@ -32,3 +32,4 @@ Note: This is a WIP and will be updated on a regular basis but with an _unknown_
 FUN READS
 1. Information theory and cross entropy: [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
 2. Information bottleneck: [Steps Towards Understanding Deep Learning: The Information Bottleneck Connection](https://weberna.github.io/jekyll/update/2017/11/08/Information-Bottleneck-Part1.html)
+3. Handling uncertainty in deep learning by using Bayesian ML concepts [Uncertainty in Deep Learning](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
