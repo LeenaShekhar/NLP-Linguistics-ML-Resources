@@ -16,11 +16,14 @@ Note: This is a WIP and will be updated on a regular basis but with an _unknown_
 7. Fast.ai MOOC matrials for practical ideas: [Practical Deep Learning For Coders](http://course.fast.ai/)
 8. CNN quick points: [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
 
-## PAPERS [Published and in no particular order]
+## PAPERS [in no particular order]
 
 1. [Scripts, plans, and knowledge. Roger C Schank and Robert P Abelson. 1975.]
 2. [Analogs of Linguistic Structure in Deep Representations](https://arxiv.org/pdf/1707.08139.pdf)
 3. [A Structured Variational Autoencoder for Contextual Morphological Inflection](https://arxiv.org/pdf/1806.03746.pdf)
+4. [A Framework for Representing Knowledge](http://courses.media.mit.edu/2004spring/mas966/Minsky%201974%20Framework%20for%20knowledge.pdf)
+5. [Recurrent Neural Networks in Linguistic Theory: Revisiting Pinker and Prince (1988) and the Past Tense Debate](https://arxiv.org/abs/1807.04783)
+6. On Language and Connectionism: Analysis of a Parallel Distributed Processing Model of Language Acquisition
 
 ## BLOG POSTS
 1. Introduction to LSTMS: [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
